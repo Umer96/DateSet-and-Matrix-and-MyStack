@@ -49,6 +49,6 @@ public class MyStack {
         System.out.println("Last added element: " + umer.peek());
         System.out.println("Popped value (first out): " + umer.pop());
         umer.push(2);
-        System.out.println("Push value (last in)" + umer.toString());
+        System.out.println("Push value (last in) " + umer.toString());
     }
 }
